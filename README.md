@@ -1,1 +1,1 @@
-# GSU_MSc_Fall_2024_Fundamentals_of_Data_Science
+# GSU_MSc_Fall_2024_Course_Projects
